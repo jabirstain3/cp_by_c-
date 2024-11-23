@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ostream": "cpp"
+    }
+}
+git init
+git add .
+git commit -m "CodeTON_Round_9"
+git branch -M main
+git remote add origin git@github.com:jabirstain3/cp_by_c-.git
+git push -u origin main
